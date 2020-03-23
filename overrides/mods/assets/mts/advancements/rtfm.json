@@ -1,0 +1,40 @@
+{
+	"parent": "mts:root",
+	"display": {
+		"icon": {
+            "item": "mts:handbook_en"
+        },
+        "title": {
+            "translate": "advancements.mts.rtfm.title"
+        },
+        "description": {
+            "translate": "advancements.mts.rtfm.description"
+        }
+	},	
+	"criteria": {
+		"has_manual": {
+		  "trigger": "minecraft:inventory_changed",
+		  "conditions": {
+			"items": [
+			  {
+				"item": "mts:handbook_en"
+			  }
+			]
+		  }
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"mts:componentbench",
+			"mts:custombench",
+			"mts:decorbench",
+			"mts:enginebench",
+			"mts:gunbench",
+			"mts:instrumentbench",
+			"mts:propellerbench",
+			"mts:seatbench",
+			"mts:vehiclebench",
+			"mts:wheelbench"
+		]
+	}
+}
