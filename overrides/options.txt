@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.52112675
 saturation:0.0
-renderDistance:10
+renderDistance:15
 guiScale:3
 particles:1
 bobView:true
@@ -14,7 +14,7 @@ fboEnable:true
 difficulty:1
 fancyGraphics:true
 ao:2
-renderClouds:false
+renderClouds:true
 resourcePacks:["Unity-1.6.4-1.12.zip","VanillaTweaks_r874708","Rails+3D.zip","Wood_And_Stone_GUI_V1.6_1.12.zip"]
 incompatibleResourcePacks:[]
 lastServer:
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
+fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
@@ -213,8 +213,8 @@ soundCategory_weather:0.2746479
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
-soundCategory_player:0.2535211
-soundCategory_ambient:0.14788732
+soundCategory_player:0.3943662
+soundCategory_ambient:0.16901408
 soundCategory_voice:1.0
 modelPart_cape:false
 modelPart_jacket:true

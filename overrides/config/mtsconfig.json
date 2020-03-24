@@ -210,6 +210,11 @@
       "defaultValue": 20,
       "comment": "How many units (1/10 of a degree) to turn the wheels on vehicles for every tick the button is held down.  This is not used when using a joystick."
     },
+    "flightIncrement": {
+      "value": 6,
+      "defaultValue": 6,
+      "comment": "How many units (1/10 of a degree) to move the elevators and ailerons on aircraft for every tick the button is held down.  This is not used when using a joystick."
+    },
     "joystickDeadZone": {
       "value": 0.03,
       "defaultValue": 0.03,
