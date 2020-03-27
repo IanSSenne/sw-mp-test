@@ -1,2 +1,0 @@
-
-recipes.removeShaped(<libvulpes:coalgenerator>);

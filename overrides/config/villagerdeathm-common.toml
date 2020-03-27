@@ -1,0 +1,5 @@
+
+[General]
+	#If enabled, shows the location of the villager in the death message.
+	showLocation = true
+

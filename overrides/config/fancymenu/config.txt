@@ -1,0 +1,16 @@
+##[customization]
+
+B:showcustomizationbuttons = 'true';
+
+
+##[mainmenu]
+
+B:hiderealmsnotifications = 'false';
+B:hidelogo = 'false';
+[Sets the animation frame at which the main menu buttons should start fading in.]
+I:mainmenufadeinframe = '1';
+[When a background animation is defined, the buttons can start fading in at a specific animation frame.]
+B:buttonfadein = 'true';
+B:hidebranding = 'true';
+B:hidesplashtext = 'false';
+B:showmainmenufooter = 'true';
